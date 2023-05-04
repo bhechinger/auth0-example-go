@@ -1,0 +1,1 @@
+package auth0_example_go
